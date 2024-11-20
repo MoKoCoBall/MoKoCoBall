@@ -4,6 +4,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trash12345)](https://solved.ac/trash12345/)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trash12345)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/trash12345"
+  width="600"
+  height="300"
+/>
+</a>
 
 🌱 I’m currently learning ...
 
