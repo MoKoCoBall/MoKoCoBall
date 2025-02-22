@@ -5,14 +5,6 @@
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoKoCoBall)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/trash12345"
-  width="600"
-  height="300"
-/>
-</a>
-
 <!--
 **MoKoCoBall/MoKoCoBall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
